@@ -1,4 +1,4 @@
-Next.js f Real estate property listing application with rental and for-sale features, advanced property filtering, property details page with an image carousel, built with next.js, chakra.ui, SCSS
+Next.js Real estate property listing application with rental and for-sale features, advanced property filtering, property details page with an image carousel, built with next.js, chakra.ui, SCSS
 
 Next.js for static generation, and server-side rendering
 Creating a User Interface using #ChakraUI
